@@ -31,5 +31,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=mehulsinh-kher&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=mehulsinh-kher&icon=1&color=5)](https://visitcount.itsvg.in)
-![](https://komarev.com/ghpvc/?mehulsinh-kher&style=flat-square)
+<div class="visit-counter">
+                <img src="https://komarev.com/ghpvc/?username=mehulsinh-kher-portfolio&color=00f0ff&style=flat-square&label=VISITS" alt="Visits Tracker">
+            </div>
